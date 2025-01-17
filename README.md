@@ -6,7 +6,7 @@
 
 ### PolarBookshop 아키텍처
 
-![프로젝트 구조](project-architecture.png)
+![Image](https://github.com/user-attachments/assets/5d33bab2-5516-4063-988b-1228f9e5515c)
 
 ## 리포지토리 구성 및 설명
 
