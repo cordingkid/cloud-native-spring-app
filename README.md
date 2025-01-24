@@ -76,6 +76,7 @@
 ### Database & Cache
 - PostgreSQL 14.12
 - Redis 7.2
+- Flyway (Database Migration)
 
 ### Message Queue
 - RabbitMQ 3.13
@@ -85,5 +86,16 @@
 - Kubernetes
 - GitHub Actions (CI/CD)
 - Grafana (모니터링)
+
+## Project Repository
+각 서비스별 소스 코드는 아래 리포지토리에서 확인할 수 있습니다 :D  
+
+- [Edge Service](https://github.com/cordingkid/edge-service)
+- [Catalog Service](https://github.com/cordingkid/catalog-service)  
+- [Order Service](https://github.com/cordingkid/order-service)  
+- [Dispatcher Service](https://github.com/cordingkid/dispatcher-service)
+- [Polar Deployment](https://github.com/cordingkid/polar-deployment)
+- [Config Service](https://github.com/cordingkid/config-service)  
+- [Config Repo](https://github.com/cordingkid/config-repo)  
 
 
