@@ -46,7 +46,7 @@
   - 비동기 메시지 처리
 
 ### 4. Catalog Service
-- **역할**: 서적 관리리
+- **역할**: 서적 관리
 - **주요 기술**:
   - Spring Boot
   - Spring Data JPA
