@@ -85,7 +85,7 @@
 - Docker
 - Kubernetes
 - GitHub Actions (CI/CD)
-- Grafana (모니터링)
+- Grafana, Loki, Fluent Bit (모니터링)
 
 ## Project Repository
 각 서비스별 소스 코드는 아래 리포지토리에서 확인할 수 있습니다 :D  
