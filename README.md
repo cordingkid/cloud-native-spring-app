@@ -86,6 +86,10 @@
 - Kubernetes
 - GitHub Actions (CI/CD)
 - Grafana, Loki, Fluent Bit (모니터링)
+- Prometheus (모니터링 및 메트릭 수집)
+- Loki (로그 수집 및 관리)
+- Tempo (분산 트레이싱)
+- OpenTelemetry (애플리케이션 성능 모니터링 및 트레이싱)
 
 ## Project Repository
 각 서비스별 소스 코드는 아래 리포지토리에서 확인할 수 있습니다 :D  
